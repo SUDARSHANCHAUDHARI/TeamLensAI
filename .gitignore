@@ -39,3 +39,4 @@ review-outputs/
 *.tsbuildinfo
 *.sqlite
 *.db
+pnpm-lock.yaml
